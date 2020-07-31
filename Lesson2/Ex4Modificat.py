@@ -1,6 +1,0 @@
-print ("Ex_4")
-a = input ("Valorea a=")
-a = int(a)
-a += int(1)
-print (a)
-print ("Intr-o oarecare masura eroare nu apare) ")
